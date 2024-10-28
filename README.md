@@ -1,3 +1,4 @@
+Fabiola de Arizon y Judith M.ª Salas
 # Pseudocódigo para Comprobar Palíndromos
 1. Inicio
 
